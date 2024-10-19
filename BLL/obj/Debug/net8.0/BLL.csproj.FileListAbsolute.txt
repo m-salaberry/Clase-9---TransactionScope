@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Actividad Clase 9\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\user\source\repos\Actividad Clase 9\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\user\source\repos\Actividad Clase 9\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\user\source\repos\Actividad Clase 9\BLL\bin\Debug\net8.0\DLL.dll
+C:\Users\user\source\repos\Actividad Clase 9\BLL\bin\Debug\net8.0\Entity.dll
+C:\Users\user\source\repos\Actividad Clase 9\BLL\bin\Debug\net8.0\DLL.pdb
+C:\Users\user\source\repos\Actividad Clase 9\BLL\bin\Debug\net8.0\Entity.pdb
+C:\Users\user\source\repos\Actividad Clase 9\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Actividad Clase 9\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Actividad Clase 9\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Actividad Clase 9\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\Actividad Clase 9\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Actividad Clase 9\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\user\source\repos\Actividad Clase 9\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\user\source\repos\Actividad Clase 9\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\user\source\repos\Actividad Clase 9\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\user\source\repos\Actividad Clase 9\BLL\obj\Debug\net8.0\ref\BLL.dll

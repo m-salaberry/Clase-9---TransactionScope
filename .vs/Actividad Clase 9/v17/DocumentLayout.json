@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Actividad Clase 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E91CFFB-C576-457B-93B5-DA57C4347B9B}|DLL\\DLL.csproj|c:\\users\\user\\source\\repos\\actividad clase 9\\dll\\empleadosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E91CFFB-C576-457B-93B5-DA57C4347B9B}|DLL\\DLL.csproj|solutionrelative:dll\\empleadosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C063A7E7-417A-45D8-94E6-587C2D407BE9}|UI\\UI.csproj|c:\\users\\user\\source\\repos\\actividad clase 9\\ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C063A7E7-417A-45D8-94E6-587C2D407BE9}|UI\\UI.csproj|solutionrelative:ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABEF294-F80F-42AF-B27D-37254B29A6E3}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\actividad clase 9\\bll\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABEF294-F80F-42AF-B27D-37254B29A6E3}|BLL\\BLL.csproj|solutionrelative:bll\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C063A7E7-417A-45D8-94E6-587C2D407BE9}|UI\\UI.csproj|c:\\users\\user\\source\\repos\\actividad clase 9\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C063A7E7-417A-45D8-94E6-587C2D407BE9}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3F048F-8DB4-4FDC-A8EA-6312488CEC4C}|Entity\\Entity.csproj|c:\\users\\user\\source\\repos\\actividad clase 9\\entity\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3F048F-8DB4-4FDC-A8EA-6312488CEC4C}|Entity\\Entity.csproj|solutionrelative:entity\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C063A7E7-417A-45D8-94E6-587C2D407BE9}|UI\\UI.csproj|c:\\users\\user\\source\\repos\\actividad clase 9\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C063A7E7-417A-45D8-94E6-587C2D407BE9}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Actividad Clase 9\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Actividad Clase 9\\UI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:59:10.028Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Actividad Clase 9\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Actividad Clase 9\\UI\\Form1.cs",
+              "RelativeToolTip": "UI\\Form1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA3wBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:43:33.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Actividad Clase 9\\BLL\\Business.cs",
+              "RelativeDocumentMoniker": "BLL\\Business.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Actividad Clase 9\\BLL\\Business.cs",
+              "RelativeToolTip": "BLL\\Business.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:36:49.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Actividad Clase 9\\DLL\\EmpleadosDAO.cs",
+              "RelativeDocumentMoniker": "DLL\\EmpleadosDAO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Actividad Clase 9\\DLL\\EmpleadosDAO.cs",
+              "RelativeToolTip": "DLL\\EmpleadosDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:37:10.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Actividad Clase 9\\Entity\\Empleado.cs",
+              "RelativeDocumentMoniker": "Entity\\Empleado.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Actividad Clase 9\\Entity\\Empleado.cs",
+              "RelativeToolTip": "Entity\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:35:28.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Actividad Clase 9\\UI\\App.config",
+              "RelativeDocumentMoniker": "UI\\App.config",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Actividad Clase 9\\UI\\App.config",
+              "RelativeToolTip": "UI\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-19T00:35:03.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
